@@ -1,2 +1,2 @@
 # portfolio
-takeshi-g's portfolio
+takeG's portfolio
